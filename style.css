@@ -1,0 +1,13 @@
+#milton {width: 200px;}
+.navbar-brand {padding: 13px 15px;}
+#myCarousel {margin-top: 60px;};
+.tabbable img.thumbnail {margin: 0 20px 10px 0;}
+#inputMessage {margin-bottom: 15px;}
+.thumbnails {margin: 20px 0;}
+.thumbnail {position: relative;}
+.thumbnail h3 {font-size:16px;margin: 0 0 10px; line-height: 20px;}
+.thumbnail .price {font-size: 22px; position: absolute; top: -10px; right: -10px; padding: 10px;}
+.thumbnail .price sup {font-weight: normal; font-size: 12px;}
+.thumbnail span.glyphicon {margin-right: 5px;}
+footer{background:#333; color:#eee; padding:20px;}
+ul.unstyled{list-style:none; padding:0;}
